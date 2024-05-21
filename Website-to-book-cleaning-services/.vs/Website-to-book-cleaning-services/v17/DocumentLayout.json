@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\votha\\source\\repos\\Vo-Thanh-Ly\\Website-to-book-cleaning-services\\Website-to-book-cleaning-services\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90491ED9-1EA8-4ACA-A307-20D0DA5A790B}|Website-to-book-cleaning-services\\Website-to-book-cleaning-services.csproj|c:\\users\\votha\\source\\repos\\vo-thanh-ly\\website-to-book-cleaning-services\\website-to-book-cleaning-services\\website-to-book-cleaning-services\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90491ED9-1EA8-4ACA-A307-20D0DA5A790B}|Website-to-book-cleaning-services\\Website-to-book-cleaning-services.csproj|solutionrelative:website-to-book-cleaning-services\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90491ED9-1EA8-4ACA-A307-20D0DA5A790B}|Website-to-book-cleaning-services\\Website-to-book-cleaning-services.csproj|c:\\users\\votha\\source\\repos\\vo-thanh-ly\\website-to-book-cleaning-services\\website-to-book-cleaning-services\\website-to-book-cleaning-services\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90491ED9-1EA8-4ACA-A307-20D0DA5A790B}|Website-to-book-cleaning-services\\Website-to-book-cleaning-services.csproj|solutionrelative:website-to-book-cleaning-services\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdentityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\votha\\source\\repos\\Vo-Thanh-Ly\\Website-to-book-cleaning-services\\Website-to-book-cleaning-services\\Website-to-book-cleaning-services\\App_Start\\IdentityConfig.cs",
+              "RelativeDocumentMoniker": "Website-to-book-cleaning-services\\App_Start\\IdentityConfig.cs",
+              "ToolTip": "C:\\Users\\votha\\source\\repos\\Vo-Thanh-Ly\\Website-to-book-cleaning-services\\Website-to-book-cleaning-services\\Website-to-book-cleaning-services\\App_Start\\IdentityConfig.cs",
+              "RelativeToolTip": "Website-to-book-cleaning-services\\App_Start\\IdentityConfig.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAAG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:01:06.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.Auth.cs",
+              "DocumentMoniker": "C:\\Users\\votha\\source\\repos\\Vo-Thanh-Ly\\Website-to-book-cleaning-services\\Website-to-book-cleaning-services\\Website-to-book-cleaning-services\\App_Start\\Startup.Auth.cs",
+              "RelativeDocumentMoniker": "Website-to-book-cleaning-services\\App_Start\\Startup.Auth.cs",
+              "ToolTip": "C:\\Users\\votha\\source\\repos\\Vo-Thanh-Ly\\Website-to-book-cleaning-services\\Website-to-book-cleaning-services\\Website-to-book-cleaning-services\\App_Start\\Startup.Auth.cs",
+              "RelativeToolTip": "Website-to-book-cleaning-services\\App_Start\\Startup.Auth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:01:05.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
